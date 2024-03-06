@@ -1,0 +1,6 @@
+consume = int(input('Quantidade kWh:'))
+print('Tipos de Instalação')
+print('R para Residencias')
+print('I para industriais')
+print('C para comercios')
+installation = input('Tipo de instalação:')
